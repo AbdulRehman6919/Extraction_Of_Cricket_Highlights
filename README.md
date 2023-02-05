@@ -24,8 +24,8 @@ These problems are the main reasons behind the need of automatically highlights 
 3. Image Pre-processing (Image Sharpening Filters)
 4. Selecting scoreboard area (ROI with Mouse)
 5. Scoreboard text detection & recognition (<a href="https://github.com/tesseract-ocr/tesseract" target="_blank">Tesseract OCR</a>)
-
 <br/>
+
 > Audio-Based Important Events Extraction 
 
 1. Convert 2 Audio Channels into Single Channel.
@@ -33,7 +33,6 @@ These problems are the main reasons behind the need of automatically highlights 
 3. Best threshold value is set by taking the maximum value from the energy array and then take 80 percent of it. 
 <br/><br/>
 ![alt text](images/threshold_audio_image.png)
-<center>Audio Threshold Selection</center>
 <br/><br/>
 
 
@@ -45,14 +44,10 @@ These problems are the main reasons behind the need of automatically highlights 
 4. Random Selection (Roulette Wheel Selection)
 5. Performing Crossover
 6. Performing Mutation 
-<br/><br/>
-![alt text](images/fitness_function.png)
-<center>Genetic Algorithm Fitness Function</center>
-<br/><br/>
+
 
 <br/><br/>
 ![alt text](images/Genetic_Algorithm.png)
-<center>Genetic Algorithm Workflow</center>
 <br/><br/>
 
 > Cricket Highlights Generation
@@ -64,17 +59,15 @@ These problems are the main reasons behind the need of automatically highlights 
 ## Project Dependencies:
 <br/><br/>
 ![alt text](images/libararies_versions.png)
-<center> Project Dependencies</center>
 <br/><br/>
 
 ## Genetic Algorithm Events:
 <br/><br/>
 ![alt text](images/Interest_based_summary.jpg)
-<center> Interest Based Summary</center>
+
 <br/><br/>
 
 ![alt text](images/variety_based_summary.png)
-<center> Variety Based Summary</center>
 <br/><br/>
 
 ## Input Video:
